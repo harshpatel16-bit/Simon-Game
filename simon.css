@@ -1,0 +1,33 @@
+.btn{
+height: 200px;
+width: 200px;
+border-radius: 10px;
+border: 1px solid rgba(39, 32, 32, 0.734);
+margin: 10px;
+filter: blur(0.4px);
+}
+
+.container{
+    display: flex;
+    
+}
+
+.blue{
+    background-color: rgba(23, 23, 211, 0.776);
+}
+.red{
+    background-color: rgba(192, 16, 22, 0.776);
+
+}
+
+.green{
+    background-color: rgba(12, 162, 12, 0.748);
+}
+
+.purple{
+    background-color: rgba(152, 12, 152, 0.769);
+}
+
+.flash{
+    background-color: transparent;
+}
