@@ -7,6 +7,7 @@ let btns = ["blue", "red", "green", "purple"];
 let Score=[];
 let HighScore=0;
 
+
 function levelUp() {
   userSeq = [];
   level++;
